@@ -2,10 +2,14 @@ title: Pedro Henrique Araujo Pinto # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  Statistician with a master degree in Computer Science at UFMG, experienced in data pre-processing, cleaning and analysis. 
+  Used to handle big amounts of data using state of the art technologies, such as Apache Spark, TensorFlow and Python, both on-premise and on cloud architectures (GCP). 
+  Experienced in multiple AI fields, such as Computer Vision, NLP and Time Series modelling.
+  <br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/pedroh-araujo/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
