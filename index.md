@@ -5,14 +5,14 @@
 ## Regression and Classification Projects
 
 ### [Credit Card Payment Classification](/credit-card-classification)
-<img src="images/credit-card-cm-ada.png" width="400" height="400"/>
-<img src="images/credit-card-roc-ada.png" width="400" height="400"/>
+<img src="images/credit-card-cm-ada.png" width="500" height="400"/>
+<img src="images/credit-card-roc-ada.png" width="500" height="400"/>
 
 ---
 
 ### [Used Cards Price Prediction](/used-cars-price-prediction)
 <img src="images/used_car_prices_eda.png" width="400" height="400"/>
-<img src="images/used_car_prices_model_results.png" width="400" height="400"/>
+<img src="images/used_car_prices_model_results.png" width="600" height="300"/>
 
 ---
 
