@@ -10,33 +10,33 @@
 
 ---
 
-[Used Cards Price Prediction](/used-cars-price-prediction)
+### [Used Cards Price Prediction](/used-cars-price-prediction)
 <img src="images/used_car_prices_eda.png" width="50" height="50"/>
 <img src="images/used_car_prices_model_results.png" width="50" height="50"/>
 
 ---
 
-### NLP Projects
+## NLP Projects
 
-[NLP POS-Tagging](/pos-tagging)
+### [NLP POS-Tagging](/pos-tagging)
 <img src="images/pos-tagging-cm.png"/>
 <img src="images/pos-tagging-results.png"/>
 
 ---
 
-[NLP Sentiment Analysis](/sentiment-analysis)
+### [NLP Sentiment Analysis](/sentiment-analysis)
 <img src="images/sentiment_analysis_confusion_lstm.png"/>
 <img src="images/sentiment_analysis_confusion_matrices.png"/>
 
 ---
 
-[NLP Word2Vec Analogies](/analogies)
+### [NLP Word2Vec Analogies](/analogies)
 <img src="images/word2vec.png"/>
 <img src="images/word-similarities.png"/>
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
