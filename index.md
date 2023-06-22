@@ -6,17 +6,21 @@
 
 [Credit Card Payment Prediction](/credit-card-classification)
 <img src="images/credit-card-cm-ada.png"/>
+<img src="images/credit-card-roc-ada.png"/>
 
 ---
 [NLP POS-Tagging](/pos-tagging)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pos-tagging-cm.png"/>
+<img src="images/pos-tagging-results.png"/>
 
 ---
 [NLP Sentiment Analysis](/sentiment-analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sentiment_analysis_confusion_lstm.png"/>
+<img src="images/sentiment_analysis_confusion_matrices.png"/>
 
 [NLP Word2Vec Analogies](/analogies)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/word2vec.png"/>
+<img src="images/word-similarities.png"/>
 
 ---
 
