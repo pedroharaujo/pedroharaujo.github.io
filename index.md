@@ -5,33 +5,34 @@
 ## Regression and Classification Projects
 
 ### [Credit Card Payment Classification](/credit-card-classification)
-<img src="images/credit-card-cm-ada.png" height="200"/> <img src="images/credit-card-roc-ada.png" height="200"/>
+<img src="images/credit-card-cm-ada.png" height="200"/>
+<img src="images/credit-card-roc-ada.png" height="200"/>
 
 ---
 
 ### [Used Cards Price Prediction](/used-cars-price-prediction)
-<img src="images/used_car_prices_eda.png" width="400" height="400"/>
-<img src="images/used_car_prices_model_results.png" width="600" height="300"/>
+<img src="images/used_car_prices_eda.png" height="400"/>
+<img src="images/used_car_prices_model_results.png" height="200"/>
 
 ---
 
 ## NLP Projects
 
 ### [NLP POS-Tagging](/pos-tagging)
-<img src="images/pos-tagging-cm.png"/>
-<img src="images/pos-tagging-results.png"/>
+<img src="images/pos-tagging-cm.png" height="550"/>
+<img src="images/pos-tagging-results.png" height="500"/>
 
 ---
 
 ### [NLP Sentiment Analysis](/sentiment-analysis)
-<img src="images/sentiment_analysis_confusion_lstm.png"/>
-<img src="images/sentiment_analysis_confusion_matrices.png"/>
+<img src="images/sentiment_analysis_confusion_lstm.png" height="400"/>
+<img src="images/sentiment_analysis_confusion_matrices.png" height="400"/>
 
 ---
 
 ### [NLP Word2Vec Analogies](/analogies)
-<img src="images/word2vec.png"/>
-<img src="images/word-similarities.png"/>
+<img src="images/word2vec.png" height="400"/>
+<img src="images/word-similarities.png" height="400"/>
 
 ---
 
