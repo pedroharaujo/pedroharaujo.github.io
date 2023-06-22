@@ -25,7 +25,7 @@
 ---
 
 ### [NLP Sentiment Analysis](/sentiment-analysis)
-<img src="images/sentiment_analysis_lstm.png" height="300"/>
+<img src="images/sentiment_analysis_lstm.png" height="250"/>
 <img src="images/sentiment_analysis_confusion_matrices.png" height="250"/>
 
 ---
