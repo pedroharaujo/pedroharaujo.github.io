@@ -5,10 +5,7 @@
 ## Regression and Classification Projects
 
 ### [Credit Card Payment Classification](/credit-card-classification)
-<p float="left">
-    <img src="images/credit-card-cm-ada.png" height="200"/>
-    <img src="images/credit-card-roc-ada.png" height="200"/>
-</p>
+<img src="images/credit-card-cm-ada.png" height="200"/> <img src="images/credit-card-roc-ada.png" height="200"/>
 
 ---
 
