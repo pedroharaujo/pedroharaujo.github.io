@@ -6,7 +6,7 @@
 
 ### [Credit Card Payment Classification](/credit-card-classification)
 <img src="images/credit-card-cm-ada.png" width="300" height="200"/>
-<img src="images/credit-card-roc-ada.png" width="500" height="400"/>
+<img src="images/credit-card-roc-ada.png" width="400" height="300"/>
 
 ---
 
