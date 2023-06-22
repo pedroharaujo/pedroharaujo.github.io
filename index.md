@@ -2,17 +2,20 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
+[Credit Card Payment Prediction](/credit-card-classification)
+<img src="images/credit-card-cm-ada.png"/>
+
+---
+[NLP POS-Tagging](/pos-tagging)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NLP Sentiment Analysis](/sentiment-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+[NLP Word2Vec Analogies](/analogies)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
