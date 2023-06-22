@@ -2,21 +2,33 @@
 
 ---
 
-### My Projects
+### Regression and Classification Projects
 
-[Credit Card Payment Prediction](/credit-card-classification)
+[Credit Card Payment Classification](/credit-card-classification)
 <img src="images/credit-card-cm-ada.png"/>
 <img src="images/credit-card-roc-ada.png"/>
 
 ---
+
+[Used Cards Price Prediction](/used-cars-price-prediction)
+<img src="images/used_car_prices_eda.png"/>
+<img src="images/used_car_prices_model_results.png"/>
+
+---
+
+### NLP Projects
+
 [NLP POS-Tagging](/pos-tagging)
 <img src="images/pos-tagging-cm.png"/>
 <img src="images/pos-tagging-results.png"/>
 
 ---
+
 [NLP Sentiment Analysis](/sentiment-analysis)
 <img src="images/sentiment_analysis_confusion_lstm.png"/>
 <img src="images/sentiment_analysis_confusion_matrices.png"/>
+
+---
 
 [NLP Word2Vec Analogies](/analogies)
 <img src="images/word2vec.png"/>
