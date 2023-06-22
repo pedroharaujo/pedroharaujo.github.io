@@ -12,7 +12,7 @@
 
 ### [Used Cards Price Prediction](/used-cars-price-prediction)
 <img src="images/used_car_prices_eda.png" height="450"/>
-<img src="images/used_car_prices_model_results.png" height="100"/>
+<img src="images/used_car_prices_model_results.png" height="55"/>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### [NLP Word2Vec Analogies](/analogies)
 <img src="images/word2vec.png" height="200"/>
-<img src="images/word-similarities.png" height="550"/>
+<img src="images/word-similarities.png" height="600"/>
 
 ---
 
