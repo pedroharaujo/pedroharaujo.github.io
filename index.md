@@ -11,8 +11,8 @@
 ---
 
 [Used Cards Price Prediction](/used-cars-price-prediction)
-<img src="images/used_car_prices_eda.png"/>
-<img src="images/used_car_prices_model_results.png"/>
+<img src="images/used_car_prices_eda.png" width="50" height="50"/>
+<img src="images/used_car_prices_model_results.png" width="50" height="50"/>
 
 ---
 
