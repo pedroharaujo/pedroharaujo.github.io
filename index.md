@@ -11,8 +11,8 @@
 ---
 
 ### [Used Cards Price Prediction](/used-cars-price-prediction)
-<img src="images/used_car_prices_eda.png" height="400"/>
-<img src="images/used_car_prices_model_results.png" height="200"/>
+<img src="images/used_car_prices_eda.png" height="450"/>
+<img src="images/used_car_prices_model_results.png" height="100"/>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### [NLP POS-Tagging](/pos-tagging)
 <img src="images/pos-tagging-cm.png"/>
-<img src="images/pos-tagging-results.png" height="400"/>
+<img src="images/pos-tagging-results.png" height="300"/>
 
 ---
 
