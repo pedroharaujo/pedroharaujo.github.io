@@ -25,14 +25,14 @@
 ---
 
 ### [NLP Sentiment Analysis](/sentiment-analysis)
-<img src="images/sentiment_analysis_lstm.png" height="250"/>
-<img src="images/sentiment_analysis_confusion_matrices.png" height="300"/>
+<img src="images/sentiment_analysis_lstm.png" height="400"/>
+<img src="images/sentiment_analysis_confusion_matrices.png" height="200"/>
 
 ---
 
 ### [NLP Word2Vec Analogies](/analogies)
 <img src="images/word2vec.png" height="200"/>
-<img src="images/word-similarities.png" height="600"/>
+<img src="images/word-similarities.png" height="400"/>
 
 ---
 
