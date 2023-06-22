@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Regression and Classification Projects
+## Regression and Classification Projects
 
-[Credit Card Payment Classification](/credit-card-classification)
+### [Credit Card Payment Classification](/credit-card-classification)
 <img src="images/credit-card-cm-ada.png"/>
 <img src="images/credit-card-roc-ada.png"/>
 
