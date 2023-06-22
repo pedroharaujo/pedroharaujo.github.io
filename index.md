@@ -19,14 +19,14 @@
 ## NLP Projects
 
 ### [NLP POS-Tagging](/pos-tagging)
-<img src="images/pos-tagging-cm.png" height="550"/>
-<img src="images/pos-tagging-results.png" height="500"/>
+<img src="images/pos-tagging-cm.png"/>
+<img src="images/pos-tagging-results.png" height="400"/>
 
 ---
 
 ### [NLP Sentiment Analysis](/sentiment-analysis)
-<img src="images/sentiment_analysis_confusion_lstm.png" height="400"/>
-<img src="images/sentiment_analysis_confusion_matrices.png" height="400"/>
+<img src="images/sentiment_analysis_lstm.png" height="250"/>
+<img src="images/sentiment_analysis_confusion_matrices.png" height="200"/>
 
 ---
 
