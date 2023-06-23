@@ -65,3 +65,14 @@ The *text8* - available in the *gensim* package with the sentences being iterabl
 <img src="images/word-similarities.png"/>
 
 ---
+
+## Computer Vision Projects
+### [Siamese Neural Network with Deep Metric Learning for Semantic Segmentation of Remote Sense Imagery](https://github.com/pedroharaujo/SNN)
+Remote sensing is the set of techniques and technological procedures that aim to represent the earth’s surface without the need for direct contact and involves actions to collect data, information and images from the surface, in order to represent them and better understand their aspects. With technological advances and the consequent increase in data obtained for analysis, together with the improvement of increasingly powerful artificial neural network techniques, several computer vision tasks - such as semantic segmentation - have attracted increasing attention from researchers. Segmenting a high-dimensional aerial image, despite not being an easy task, has shown promising results with the use of neural networks. Several variations of architectures and aid modules - such as attention modules - for pixel classification were tested in
+the literature for image segmentation. However, the segmentation of aerial images still has room for improvement and some work fronts little explored. 
+
+In this work, we used deep metric learning to segment aerial images in four scenarios: buildings (constructions), coffee plantations, cars and trees. We used an architecture, called SMELL, based on an autoencoder and a distance learning module, originally developed for classification tasks and adapted it to solve semantic segmentation problems using context windows. The application of a siamese neural network, with a metric learning module for which the distance function is learned and optimized by the model itself, seems not to have been explored in the literature for remote sensing. 
+
+Our tests show that the use of distances for classification at the pixel level can be very useful for segmentation tasks, surpassing some state-of-the-art architectures, such as ResNet and Xception. Our work opens space for the exploration of other metric learning techniques, as well as presents possible improvements to be tested in the presented method.
+<img src="images/smell-schema.jpeg"/>
+<img src="images/tyrol_results_examples.jpeg"/>
