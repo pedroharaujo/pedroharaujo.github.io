@@ -4,7 +4,7 @@
 
 ## Regression and Classification Projects
 
-### [Credit Card Payment Classification]()
+### [Credit Card Payment Classification](https://github.com/pedroharaujo/credit-card-payment-classification)
 This project applies some ensemble techniques and carry out a comparative study in order to classify customers in relation to credit card payments. The data used here were obtained from kaggle and are provided by the UCI, originally presenting 30000 observations of 24 variables.
 
 The models fitted and compared are:
@@ -20,7 +20,7 @@ After the comparisons, it was observed that the AdaBoost method presented the be
 
 ---
 
-### [Used Cards Price Prediction](https://github.com/pedroharaujo/credit-card-payment-classification)
+### [Used Cards Price Prediction](https://github.com/pedroharaujo/used-cars-price-prediction)
 A straightforward  project for building a simple predictive model to used cars price using a Kaggle database. Good practice for DataScience regression projects.
 
 In this project, there are two different Jupyter Notebook files.
