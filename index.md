@@ -74,5 +74,5 @@ the literature for image segmentation. However, the segmentation of aerial image
 In this work, we used deep metric learning to segment aerial images in four scenarios: buildings (constructions), coffee plantations, cars and trees. We used an architecture, called SMELL, based on an autoencoder and a distance learning module, originally developed for classification tasks and adapted it to solve semantic segmentation problems using context windows. The application of a siamese neural network, with a metric learning module for which the distance function is learned and optimized by the model itself, seems not to have been explored in the literature for remote sensing. 
 
 Our tests show that the use of distances for classification at the pixel level can be very useful for segmentation tasks, surpassing some state-of-the-art architectures, such as ResNet and Xception. Our work opens space for the exploration of other metric learning techniques, as well as presents possible improvements to be tested in the presented method.
-<img src="images/smell-schema.jpeg"/>
+<img src="images/smell_schema.jpeg"/>
 <img src="images/tyrol_results_examples.jpeg"/>
